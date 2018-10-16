@@ -10,7 +10,7 @@ http.createServer(function (request, response) {
    response.writeHead(200, {'Content-Type': 'text/html'});
    
    // Send the response body as "Hello World"
-   response.end("<h1 align='center'>Heyyo v1 :)</h1>");
+   response.end("<h1 align='center'>Heyyo v2 :)</h1>");
 }).listen(port);
 
 // Console will print the message
