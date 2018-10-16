@@ -1,0 +1,12 @@
+{
+  "name": "opsworks-node-app",
+  "version": "1.0.0",
+  "description": "Node.js App ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahtab Alam",
+  "license": "ISC",
+  "dependencies": {}
+}
